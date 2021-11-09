@@ -1,0 +1,3 @@
+[submodule "modules/user-custom-fields-management"]
+	path = modules/user-custom-fields-management
+	url = git@github.com:simplify-liferay/user-with-custom-fields.git
